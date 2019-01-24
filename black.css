@@ -1,0 +1,9 @@
+body{color:#efefef;background-color:#000}
+hr{border-color:#444;}
+blockquote{border-color:#333;}
+a,a:visited,a:active{color:#efefef;}
+code, samp{color:#000; border-color:#adadad;background:#efefef;}
+pre>code, pre>samp{color:#efefef;}
+input,button,textarea,select{color:#efefef;border-color:#adadad;}
+th, td{border-bottom-color:#e1e1e1;}
+a.tag{color:#000;background-color:#efefef;border:none;padding:0.5rem;text-decoration:none;border-radius:2rem;}
